@@ -1,0 +1,7 @@
+C:\Users\Hasan\source\repos\ConsoleZarAtmaSolution\ConsoleZarAtma\bin\Debug\ConsoleZarAtma.exe.config
+C:\Users\Hasan\source\repos\ConsoleZarAtmaSolution\ConsoleZarAtma\bin\Debug\ConsoleZarAtma.exe
+C:\Users\Hasan\source\repos\ConsoleZarAtmaSolution\ConsoleZarAtma\bin\Debug\ConsoleZarAtma.pdb
+C:\Users\Hasan\source\repos\ConsoleZarAtmaSolution\ConsoleZarAtma\obj\Debug\ConsoleZarAtma.csprojAssemblyReference.cache
+C:\Users\Hasan\source\repos\ConsoleZarAtmaSolution\ConsoleZarAtma\obj\Debug\ConsoleZarAtma.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\ConsoleZarAtmaSolution\ConsoleZarAtma\obj\Debug\ConsoleZarAtma.exe
+C:\Users\Hasan\source\repos\ConsoleZarAtmaSolution\ConsoleZarAtma\obj\Debug\ConsoleZarAtma.pdb
